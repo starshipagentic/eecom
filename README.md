@@ -1,2 +1,3 @@
 # eecom
-Placeholder repo for the eecom project
+
+Placeholder package. The `eecom` name is reserved for a future project.
